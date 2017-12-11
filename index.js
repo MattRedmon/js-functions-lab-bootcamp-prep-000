@@ -16,3 +16,7 @@ function holidayCountdown(holiday, days) {
   return 'It\'s ${days} days until ${holiday}!'
 }
 
+
+happysHolidaysTo("Oswald")
+happyHolidayTo("Easter", "Wilma")
+holidayCountdown("Thanksgiving", 13)
